@@ -1,4 +1,6 @@
-1. read react architecture
-2. how react works
-3. things need to add with react to get it work
-4. basic react features 
+setup yarn
+setup webpack
+setup babel
+setup es6 environment
+setup react
+...

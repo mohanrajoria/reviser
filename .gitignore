@@ -1,2 +1,4 @@
 .git
 tasks.txt
+/node_modules
+yarn.lock
